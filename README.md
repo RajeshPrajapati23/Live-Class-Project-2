@@ -1,6 +1,6 @@
 # Live-Class-Project-2
 
-Here My Website Link- [Homepage](https://rajesh-live-class-project-02.netlify.app/)
+Here My Website Link- [Homepage](https://rajesh-css-project-2.netlify.app)
 
 I have designed this restaurant website using HTML and CSS.
 
